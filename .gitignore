@@ -1,0 +1,7 @@
+# Ignore actual logs and sensitive data
+*.pcap
+*.log
+*.tar
+*.pem
+*.key
+auth_report_*.txt
